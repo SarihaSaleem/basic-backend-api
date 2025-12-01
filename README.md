@@ -31,10 +31,10 @@ npm start
 To run:http://localhost:3000
 
 ## Deployment
-
+https://basic-backend-api-1.onrender.com
 
 ## GitHub Repository
-
+https://github.com/SarihaSaleem/basic-backend-api.git
 
 ## Author
 Sariha
